@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Hello, YaYa 🦆")
 
-st.write("### Happy Valentine's Day ❤️")
+# st.write("### Happy Valentine's Day ❤️")
 st.divider()
 
 st.text("")
